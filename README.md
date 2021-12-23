@@ -22,13 +22,13 @@ Get input from the user for number of rows and add it by 1 for number of columns
 Using np.zeros() set the matrix as null matrix.
 
 ### Step 5:
-Using for loop get input from the user for each element in the matrix.
+Using nested for loop get input from the user for each element in the matrix.
 
 ###  Step 6:
-Using for loop we can perform the elementary row operations and find the final matrix.
+Using nested for loop find the ratio and perform the elementary row operations and find the final matrix.
 
 ### Step 7:
-Print the values by solving the matrix using for loop with 2 point precision.
+Use back substitution method to find the value of the variables and print it.
 
 ### Step 8:
 End the program.
