@@ -34,10 +34,7 @@ Use back substitution method to find the value of the variables and print it.
 End the program.
 
 ## PROGRAM:
-```
-Program to solve a matrix using Gaussian elimination with partial pivoting.
-Developed by: Aashima Nazreen Sayeed S
-RegisterNumber: 21500368
+```python
 
 import numpy as np
 import sys
@@ -65,7 +62,7 @@ for i in range(n):
 ```
 
 ## OUTPUT:
-![output](https://user-images.githubusercontent.com/93427086/147243242-68344443-b441-43f5-9ccd-ecad2ce434d3.png)
+![output](./Screenshot%20from%202022-10-06%2011-03-04.png)
 
 
 ## RESULT:
