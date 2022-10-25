@@ -35,7 +35,9 @@ End the program.
 
 ## PROGRAM:
 ```python
-
+#Program to find the solution of matrix using gaussian elimination
+#Developed by: Sivabalan S
+#Register number: 22004401
 import numpy as np
 import sys
 n = int(input())
