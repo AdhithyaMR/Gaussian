@@ -36,8 +36,8 @@ End the program.
 ## PROGRAM:
 ```python
 #Program to find the solution of matrix using gaussian elimination
-#Developed by: Sivabalan S
-#Register number: 22004401
+#Developed by: Adhithya M R
+#Register number: 22002941
 import numpy as np
 import sys
 n = int(input())
@@ -64,7 +64,7 @@ for i in range(n):
 ```
 
 ## OUTPUT:
-![output](./Screenshot%20from%202022-10-06%2011-03-04.png)
+![output](/Screenshot%20from%202023-01-23%2019-59-58.png)
 
 
 ## RESULT:
